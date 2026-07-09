@@ -13,11 +13,10 @@
 ### 👋 Sobre mí
 
 ```javascript
-const sergio = {
+const x4vier19 = {
     nombre: "Sergio Xavier Fernández Martínez",
-    apodo: "X4VIER19",
     carrera: "Ingeniería en Sistemas Computacionales",
-    intereses: ["Redes", "Ciberseguridad", "Backend", "Administración de servidores", "IoT"],
+    intereses: ["Redes", "Ciberseguridad", "Desarrollo", "Administración de servidores", "IoT"],
     idiomas: ["Español (nativo)", "Inglés (en curso)"],
     meta: "Seguir aprendiendo de tecnología y desarrollar nuevas habilidades en distintas áreas de la ingeniería en sistemas",
 };
