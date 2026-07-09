@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=200&section=header&text=Sergio%20Xavier%20Fern%C3%A1ndez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ing.%20en%20Sistemas%20Computacionales%20%40%20ITA&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/X4VIER19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=Buscando+oportunidad+laboral+%F0%9F%9A%80;Redes+%26+Ciberseguridad;Backend+%26+Administraci%C3%B3n+de+Servidores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=3498DB&center=true&vCenter=true&width=700&lines=Buscando+oportunidad+laboral+%F0%9F%9A%80;Redes+%26+Ciberseguridad;Backend+%26+Administraci%C3%B3n+de+Servidores" alt="Typing SVG" />
 </a>
 
 </div>
