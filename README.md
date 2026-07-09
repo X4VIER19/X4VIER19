@@ -35,7 +35,7 @@ const sergio = {
 
 | Institución | Programa | Estatus |
 |---|---|---|
-| **Instituto Tecnológico de Altamira (ITA)** | Ingeniería en Sistemas Computacionales | En curso · Promedio 96.71 |
+| **Instituto Tecnológico de Altamira (ITA)** | Ingeniería en Sistemas Computacionales | En curso |
 | **CBTis No. 105** | Técnico en Programación | Concluido |
 
 ---
