@@ -27,7 +27,6 @@ const sergio = {
 - 🔭 Actualmente trabajando en proyectos de **redes, ciberseguridad y backend**
 - 🌱 Aprendiendo continuamente sobre nuevas áreas de la ingeniería en sistemas
 - 💬 Pregúntame sobre Java, redes o administración de servidores
-- 🎮 Fuera del código: videojuegos
 
 ---
 
@@ -68,15 +67,6 @@ const sergio = {
 | ⬇️ **[XDownloader](https://github.com/X4VIER19/XDownloader)** | Herramienta de descarga de contenido multimedia. |
 | 📡 **[monitoreoESP32](https://github.com/X4VIER19/monitoreoESP32)** | Monitoreo en tiempo real de sensores ESP32 vía Firebase, con gráficas temporales y exportación de datos. |
 
----
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=X4VIER19&theme=algolia&column=4&margin-w=8&margin-h=8&no-frame=true" width="80%" />
-
-</div>
 
 ---
 
@@ -84,14 +74,9 @@ const sergio = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=X4VIER19&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&title_color=3498DB&icon_color=3498DB&text_color=2C3E50&bg_color=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X4VIER19&layout=compact&hide_border=true&cache_seconds=86400&title_color=3498DB&text_color=2C3E50&bg_color=ffffff" width="49%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=X4VIER19&hide_border=true&background=ffffff&ring=3498DB&fire=3498DB&currStreakLabel=2C3E50" width="60%" />
 
 </div>
-
-> 💡 Si estas tres imágenes no cargan, no es un error tuyo: la instancia pública de `github-readme-stats.vercel.app` es compartida por miles de perfiles y se satura seguido (ver [issue #1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). La solución permanente es auto-hospedar tu propia copia gratis en Vercel — dime si quieres que te guíe paso a paso.
 
 ---
 
