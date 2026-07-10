@@ -80,9 +80,10 @@ const x4vier19 = {
 
 | Proyecto | Descripción |
 |---|---|
-| 🖼️ **[PDI_Procesamiento_de_Imagenes](https://github.com/X4VIER19/PDI_Procesamiento_de_Imagenes)** | Aplicación de escritorio en Java para Procesamiento Digital de Imágenes: renderizado de histogramas en tiempo real y super-resolución/reducción de ruido con **waifu2x** sobre **Vulkan** (`waifu2x-ncnn-vulkan`). |
+| **[Procesamiento_de_Imagenes](https://github.com/X4VIER19/PDI_Procesamiento_de_Imagenes)** | Aplicación de escritorio en Java para Procesamiento Digital de Imágenes: renderizado de histogramas en tiempo real y super-resolución/reducción de ruido con **waifu2x** sobre **Vulkan** (`waifu2x-ncnn-vulkan`). |
 | 📡 **[monitoreoESP32](https://github.com/X4VIER19/monitoreoESP32)** | App de escritorio en Java (Swing) para monitoreo en tiempo real de sensores ESP32 vía Firebase Realtime Database, con gráficas (JFreeChart), histórico paginado y exportación a CSV. |
 | ⬇️ **[XDownloader](https://github.com/X4VIER19/XDownloader)** | Herramienta de descarga de contenido multimedia, desarrollada en C++. |
+| ♟️ **[Chess Reader](https://github.com/X4VIER19/ChessReader)** |  Chess Reader es un motor de reproducción de partidas de ajedrez e intérprete de archivos de texto estructurados bajo la Notación Algebraica Estándar (SAN).  |
 
 > 🏆 **Innovatec 2025** (etapa local) — Asistente virtual con IA para brindar información médica general, sin sustituir la consulta profesional. Proyecto en fase de conceptualización y prototipo de interfaz gráfica.
 
